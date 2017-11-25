@@ -1,0 +1,24 @@
+1.)  build.sh
+2.)  * libkern
+     * sys/lib/libkern/arch/XXX
+3.)  * sys/arch/XXX
+     * sys/arch/<cpu|soc>/include
+     * sys/arch/<cpu|soc>/conf
+4.)  console driver
+5.)  exception handlers
+6.)  startup code
+7.)  pmap.9
+8.)  copyin/copyout
+9.)  atomic operations
+10.) interrupts
+11.) system clock:
+        * cpu_initclocks()
+        * clock IRQ handler -> hardclock()
+     other:
+        * cpu_switchto(9)
+        * kcopy(9)
+        * setfault()
+        * cpu_lwp_fork(9)
+        * spl(9)
+        * cpu_startup(9)
+        * cpu_rootconf(9) 

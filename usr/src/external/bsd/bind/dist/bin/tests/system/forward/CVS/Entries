@@ -1,0 +1,11 @@
+/clean.sh/1.1.1.4.10.1/Fri Oct 14 12:01:17 2016//Tnetbsd-7-1-RELEASE
+/rfc1918-inherited.conf/1.1.1.1.6.2/Fri Oct 14 12:01:17 2016//Tnetbsd-7-1-RELEASE
+/rfc1918-notinherited.conf/1.1.1.1.6.2/Fri Oct 14 12:01:17 2016//Tnetbsd-7-1-RELEASE
+/tests.sh/1.1.1.6.4.2/Fri Oct 14 12:01:17 2016//Tnetbsd-7-1-RELEASE
+/ula-inherited.conf/1.1.1.1.6.2/Fri Oct 14 12:01:17 2016//Tnetbsd-7-1-RELEASE
+/ula-notinherited.conf/1.1.1.1.6.2/Fri Oct 14 12:01:17 2016//Tnetbsd-7-1-RELEASE
+D/ns1////
+D/ns2////
+D/ns3////
+D/ns4////
+D/ns5////

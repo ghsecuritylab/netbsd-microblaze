@@ -1,0 +1,13 @@
+# $NetBSD: Makefile.xlcUTF8Load,v 1.1.42.1 2016/12/23 08:04:04 snj Exp $
+
+.PATH:	${X11SRCDIR.X11}/modules/lc/Utf8
+
+SRCS.xlcUTF8Load= \
+	lcUTF8Load.c
+
+CPPFLAGS+= \
+	-I${DESTDIR}${X11INCDIR}/X11 \
+	-I${X11SRCDIR.X11}/src/xlibi18n
+
+CPPFLAGS+= \
+	-DHASXDMAUTH

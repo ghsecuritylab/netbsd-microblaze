@@ -1,0 +1,31 @@
+/Makefile.in/1.1.1.1.6.2/Fri Oct 14 12:01:23 2016//Tnetbsd-7-1-RELEASE
+/README/1.1.1.1.6.2/Fri Oct 14 12:01:23 2016//Tnetbsd-7-1-RELEASE
+/RELEASE_NOTES/1.1.1.1.6.2/Fri Oct 14 12:01:23 2016//Tnetbsd-7-1-RELEASE
+/aclocal.m4/1.1.1.1.6.2/Fri Oct 14 12:01:24 2016//Tnetbsd-7-1-RELEASE
+/acx_pthread.m4/1.1.1.1.6.2/Fri Oct 14 12:01:24 2016//Tnetbsd-7-1-RELEASE
+/config.guess/1.1.1.1.6.3/Mon Feb 20 15:48:21 2017//Tnetbsd-7-1-RELEASE
+/config.sub/1.1.1.1.6.3/Mon Feb 20 15:48:21 2017//Tnetbsd-7-1-RELEASE
+/configure/1.1.1.1.6.2/Fri Oct 14 12:01:24 2016//Tnetbsd-7-1-RELEASE
+/configure.in/1.1.1.1.6.2/Fri Oct 14 12:01:24 2016//Tnetbsd-7-1-RELEASE
+/datafile.c/1.1.1.1.6.2/Fri Oct 14 12:01:24 2016//Tnetbsd-7-1-RELEASE
+/datafile.h/1.1.1.1.6.2/Fri Oct 14 12:01:24 2016//Tnetbsd-7-1-RELEASE
+/dns.c/1.1.1.1.6.2/Fri Oct 14 12:01:24 2016//Tnetbsd-7-1-RELEASE
+/dns.h/1.1.1.1.6.2/Fri Oct 14 12:01:24 2016//Tnetbsd-7-1-RELEASE
+/dnsperf.1/1.1.1.1.6.2/Fri Oct 14 12:01:24 2016//Tnetbsd-7-1-RELEASE
+/dnsperf.c/1.1.1.1.6.2/Fri Oct 14 12:01:24 2016//Tnetbsd-7-1-RELEASE
+/install-sh/1.1.1.1.6.2/Fri Oct 14 12:01:24 2016//Tnetbsd-7-1-RELEASE
+/log.c/1.1.1.1.6.2/Fri Oct 14 12:01:24 2016//Tnetbsd-7-1-RELEASE
+/log.h/1.1.1.1.6.2/Fri Oct 14 12:01:24 2016//Tnetbsd-7-1-RELEASE
+/net.c/1.1.1.1.6.2/Fri Oct 14 12:01:24 2016//Tnetbsd-7-1-RELEASE
+/net.h/1.1.1.1.6.2/Fri Oct 14 12:01:24 2016//Tnetbsd-7-1-RELEASE
+/opt.c/1.1.1.1.6.2/Fri Oct 14 12:01:24 2016//Tnetbsd-7-1-RELEASE
+/opt.h/1.1.1.1.6.2/Fri Oct 14 12:01:24 2016//Tnetbsd-7-1-RELEASE
+/os.c/1.1.1.1.6.2/Fri Oct 14 12:01:24 2016//Tnetbsd-7-1-RELEASE
+/os.h/1.1.1.1.6.2/Fri Oct 14 12:01:24 2016//Tnetbsd-7-1-RELEASE
+/resperf-report/1.1.1.1.6.2/Fri Oct 14 12:01:24 2016//Tnetbsd-7-1-RELEASE
+/resperf.1/1.1.1.1.6.2/Fri Oct 14 12:01:24 2016//Tnetbsd-7-1-RELEASE
+/resperf.c/1.1.1.1.6.2/Fri Oct 14 12:01:24 2016//Tnetbsd-7-1-RELEASE
+/util.h/1.1.1.1.6.2/Fri Oct 14 12:01:24 2016//Tnetbsd-7-1-RELEASE
+/version.h/1.1.1.1.6.2/Fri Oct 14 12:01:24 2016//Tnetbsd-7-1-RELEASE
+D/contrib////
+D/doc////

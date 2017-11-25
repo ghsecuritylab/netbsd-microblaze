@@ -1,0 +1,14 @@
+/db.clientip1/1.1.1.1.2.2/Fri Jul 17 04:31:26 2015//Tnetbsd-7-1-RELEASE
+/db.clientip2/1.1.1.1.2.2/Fri Jul 17 04:31:26 2015//Tnetbsd-7-1-RELEASE
+/db.wildcard1/1.1.1.1.4.2/Sun Mar 13 08:06:08 2016//Tnetbsd-7-1-RELEASE
+/db.wildcard2a/1.1.1.1.4.2/Sun Mar 13 08:06:08 2016//Tnetbsd-7-1-RELEASE
+/db.wildcard2b/1.1.1.1.4.2/Sun Mar 13 08:06:08 2016//Tnetbsd-7-1-RELEASE
+/db.wildcard3/1.1.1.1.4.2/Sun Mar 13 08:06:08 2016//Tnetbsd-7-1-RELEASE
+/named.clientip.conf/1.1.1.1.2.2/Fri Jul 17 04:31:26 2015//Tnetbsd-7-1-RELEASE
+/named.conf.header/1.1.1.1.2.2/Fri Jul 17 04:31:26 2015//Tnetbsd-7-1-RELEASE
+/named.default.conf/1.1.1.1.2.2/Fri Jul 17 04:31:26 2015//Tnetbsd-7-1-RELEASE
+/named.wildcard1.conf/1.1.1.1.4.2/Sun Mar 13 08:06:08 2016//Tnetbsd-7-1-RELEASE
+/named.wildcard2.conf/1.1.1.1.4.2/Sun Mar 13 08:06:08 2016//Tnetbsd-7-1-RELEASE
+/named.wildcard3.conf/1.1.1.1.4.2/Sun Mar 13 08:06:08 2016//Tnetbsd-7-1-RELEASE
+/root.hint/1.1.1.1.2.2/Fri Jul 17 04:31:26 2015//Tnetbsd-7-1-RELEASE
+D

@@ -1,0 +1,14 @@
+/COPYRIGHT/1.1.1.1/Wed Dec 25 20:33:13 2013//Tnetbsd-7-1-RELEASE
+/CREDITS/1.1.1.1/Wed Dec 25 20:33:13 2013//Tnetbsd-7-1-RELEASE
+/HISTORY/1.1.1.1/Wed Dec 25 20:33:13 2013//Tnetbsd-7-1-RELEASE
+/INSTALL/1.1.1.1/Wed Dec 25 20:33:13 2013//Tnetbsd-7-1-RELEASE
+/Makefile/1.1.1.1/Wed Dec 25 20:33:13 2013//Tnetbsd-7-1-RELEASE
+/Makefile.inc/1.1.1.1/Wed Dec 25 20:33:13 2013//Tnetbsd-7-1-RELEASE
+/README/1.1.1.1/Wed Dec 25 20:33:13 2013//Tnetbsd-7-1-RELEASE
+/config.mk.in/1.1.1.1/Wed Dec 25 20:33:13 2013//Tnetbsd-7-1-RELEASE
+/configure/1.1.1.1/Wed Dec 25 20:33:13 2013//Tnetbsd-7-1-RELEASE
+D/examples////
+D/include////
+D/lib////
+D/mount_smbfs////
+D/smbutil////

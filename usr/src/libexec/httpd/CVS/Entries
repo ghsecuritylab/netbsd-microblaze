@@ -1,0 +1,22 @@
+/CHANGES/1.19.2.5/Sun Feb 12 22:07:17 2017//Tnetbsd-7-1-RELEASE
+/Makefile/1.22.2.2/Sun Apr 10 10:33:11 2016//Tnetbsd-7-1-RELEASE
+/Makefile.boot/1.6/Thu Jan  2 08:30:22 2014//Tnetbsd-7-1-RELEASE
+/auth-bozo.c/1.13.2.2/Sun Apr 10 10:33:11 2016//Tnetbsd-7-1-RELEASE
+/bozohttpd.8/1.46.4.8/Sun Feb 12 22:07:17 2017//Tnetbsd-7-1-RELEASE
+/bozohttpd.c/1.56.2.8/Sun Feb 12 22:07:17 2017//Tnetbsd-7-1-RELEASE
+/bozohttpd.h/1.33.2.6/Sun Feb 12 22:07:17 2017//Tnetbsd-7-1-RELEASE
+/cgi-bozo.c/1.25.2.7/Sun Feb 12 22:07:17 2017//Tnetbsd-7-1-RELEASE
+/content-bozo.c/1.10.2.4/Fri Dec 23 07:42:09 2016//Tnetbsd-7-1-RELEASE
+/daemon-bozo.c/1.16.4.1/Sun Apr 10 10:33:11 2016//Tnetbsd-7-1-RELEASE
+/dir-index-bozo.c/1.19.4.2/Sun Apr 10 10:33:11 2016//Tnetbsd-7-1-RELEASE
+/lua-bozo.c/1.10.2.2/Sun Apr 10 10:33:11 2016//Tnetbsd-7-1-RELEASE
+/main.c/1.8.2.2/Fri Dec 23 07:42:09 2016//Tnetbsd-7-1-RELEASE
+/netbsd_queue.h/1.1/Thu Jul 11 08:24:47 2013//Tnetbsd-7-1-RELEASE
+/printenv.lua/1.2.18.1/Sun Apr 10 10:33:11 2016//Tnetbsd-7-1-RELEASE
+/ssl-bozo.c/1.18.2.1/Sun Apr 10 10:33:11 2016//Tnetbsd-7-1-RELEASE
+/tilde-luzah-bozo.c/1.10.4.1/Sun Apr 10 10:33:11 2016//Tnetbsd-7-1-RELEASE
+D/debug////
+D/libbozohttpd////
+D/lua////
+D/small////
+D/testsuite////

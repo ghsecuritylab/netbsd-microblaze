@@ -1,0 +1,15 @@
+/Makefile.am/1.1.1.1.6.1/Sun Nov  8 01:51:17 2015//Tnetbsd-7-1-RELEASE
+/Makefile.in/1.1.1.1.6.3/Sun Nov  8 01:51:17 2015//Tnetbsd-7-1-RELEASE
+/leapsec.c/1.1.1.1.8.3/Wed May 11 11:35:43 2016//Tnetbsd-7-1-RELEASE
+/ntp_prio_q.c/1.1.1.1.8.3/Wed May 11 11:35:43 2016//Tnetbsd-7-1-RELEASE
+/ntp_restrict.c/1.1.1.1.8.3/Wed May 11 11:35:43 2016//Tnetbsd-7-1-RELEASE
+/rc_cmdlength.c/1.1.1.1.8.3/Wed May 11 11:35:43 2016//Tnetbsd-7-1-RELEASE
+/run-leapsec.c/1.1.1.1.8.3/Wed May 11 11:35:43 2016//Tnetbsd-7-1-RELEASE
+/run-ntp_prio_q.c/1.1.1.1.8.2/Sun Nov  8 01:51:17 2015//Tnetbsd-7-1-RELEASE
+/run-ntp_restrict.c/1.1.1.1.8.3/Wed May 11 11:35:43 2016//Tnetbsd-7-1-RELEASE
+/run-rc_cmdlength.c/1.1.1.1.8.3/Wed May 11 11:35:43 2016//Tnetbsd-7-1-RELEASE
+/run-t-ntp_scanner.c/1.1.1.1.8.2/Sun Nov  8 01:51:17 2015//Tnetbsd-7-1-RELEASE
+/run-t-ntp_signd.c/1.1.1.1.8.3/Wed May 11 11:35:43 2016//Tnetbsd-7-1-RELEASE
+/t-ntp_scanner.c/1.1.1.1.8.3/Wed May 11 11:35:43 2016//Tnetbsd-7-1-RELEASE
+/t-ntp_signd.c/1.1.1.1.8.3/Wed May 11 11:35:43 2016//Tnetbsd-7-1-RELEASE
+D

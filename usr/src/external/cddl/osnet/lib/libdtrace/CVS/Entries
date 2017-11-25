@@ -1,0 +1,10 @@
+/Makefile/1.9/Sun Mar 16 06:51:43 2014//Tnetbsd-7-1-RELEASE
+/errno.d/1.2/Sun Feb 21 01:46:35 2010//Tnetbsd-7-1-RELEASE
+/net.d/1.2/Sun Feb 21 01:46:35 2010//Tnetbsd-7-1-RELEASE
+/nfs.d/1.2/Sun Feb 21 01:46:35 2010//Tnetbsd-7-1-RELEASE
+/psinfo.d/1.2/Sun Feb 21 01:46:35 2010//Tnetbsd-7-1-RELEASE
+/sched.d/1.2/Sun Feb 21 01:46:35 2010//Tnetbsd-7-1-RELEASE
+/shlib_version/1.1/Sun Feb 21 01:46:35 2010//Tnetbsd-7-1-RELEASE
+/signal.d/1.2/Sun Feb 21 01:46:35 2010//Tnetbsd-7-1-RELEASE
+/unistd.d/1.2/Sun Feb 21 01:46:35 2010//Tnetbsd-7-1-RELEASE
+D

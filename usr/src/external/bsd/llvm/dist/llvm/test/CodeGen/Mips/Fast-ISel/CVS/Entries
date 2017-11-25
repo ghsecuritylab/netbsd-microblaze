@@ -1,0 +1,16 @@
+/br1.ll/1.1.1.1.2.2/Thu Jun  4 20:05:13 2015//Tnetbsd-7-1-RELEASE
+/callabi.ll/1.1.1.1.2.2/Thu Jun  4 20:05:13 2015//Tnetbsd-7-1-RELEASE
+/fpcmpa.ll/1.1.1.1.2.2/Thu Jun  4 20:05:13 2015//Tnetbsd-7-1-RELEASE
+/fpext.ll/1.1.1.1.2.2/Thu Jun  4 20:05:13 2015//Tnetbsd-7-1-RELEASE
+/fpintconv.ll/1.1.1.1.2.2/Thu Jun  4 20:05:13 2015//Tnetbsd-7-1-RELEASE
+/fptrunc.ll/1.1.1.1.2.2/Thu Jun  4 20:05:13 2015//Tnetbsd-7-1-RELEASE
+/icmpa.ll/1.1.1.1.2.2/Thu Jun  4 20:05:13 2015//Tnetbsd-7-1-RELEASE
+/loadstore2.ll/1.1.1.1.2.1/Thu Jun  4 20:05:13 2015//Tnetbsd-7-1-RELEASE
+/loadstoreconv.ll/1.1.1.1.2.2/Thu Jun  4 20:05:13 2015//Tnetbsd-7-1-RELEASE
+/loadstrconst.ll/1.1.1.1.2.1/Thu Jun  4 20:05:13 2015//Tnetbsd-7-1-RELEASE
+/nullvoid.ll/1.1.1.1.4.1/Thu Jun  4 20:05:13 2015//Tnetbsd-7-1-RELEASE
+/shift.ll/1.1.1.1.2.2/Thu Jun  4 20:05:13 2015//Tnetbsd-7-1-RELEASE
+/simplestore.ll/1.1.1.1.4.1/Thu Jun  4 20:05:13 2015//Tnetbsd-7-1-RELEASE
+/simplestorefp1.ll/1.1.1.1.2.1/Thu Jun  4 20:05:13 2015//Tnetbsd-7-1-RELEASE
+/simplestorei.ll/1.1.1.1.4.1/Thu Jun  4 20:05:13 2015//Tnetbsd-7-1-RELEASE
+D
